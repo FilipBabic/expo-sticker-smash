@@ -1,6 +1,6 @@
 # Completed Expo Application 👋
 
-This is a mobile application built by following the official [Expo](https://expo.dev) tutorial. The project is fully completed and ready to run on both Android and iOS devices.
+This is a mobile application built by following the official [Expo](https://docs.expo.dev/tutorial/introduction/) tutorial. The project is fully completed and ready to run on both Android and iOS devices.
 
 ## 🚀 How to Run the Project Locally
 
@@ -49,5 +49,5 @@ This project utilizes **Expo Router** (file-based routing). The main codebase is
 
 ## 📚 Resources Used
 
-- [Official Learn Expo Tutorial](https://expo.dev)
-- [Expo Documentation](https://expo.dev)
+- [Official Learn Expo Tutorial](https://docs.expo.dev/tutorial/introduction/)
+- [Expo Documentation](https://docs.expo.dev/)
